@@ -11,7 +11,10 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Contador Binario.lvlib" Type="Library" URL="../Contador Binario/Contador Binario.lvlib"/>
+		<Item Name="CSV.lvlib" Type="Library" URL="../CSV/CSV.lvlib"/>
 		<Item Name="Generador Funciones.lvlib" Type="Library" URL="../Generador Funciones/Generador Funciones.lvlib"/>
+		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
+		<Item Name="TXT.lvlib" Type="Library" URL="../TXT/TXT.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
